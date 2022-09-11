@@ -10,6 +10,6 @@ public class A{
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.nykaa.com/");
-		System.out.println("Hi!! How are you")
+		System.out.println("Hi!! How are you");
 	}
 }
